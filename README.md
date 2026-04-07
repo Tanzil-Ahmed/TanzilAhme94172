@@ -2,14 +2,19 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tanzil%20Ahmed&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Engineer%20%7C%20AI%20Builder&descColor=a0c4ff&descAlignY=58&animation=fadeIn" width="100%"/>
 </div>
+
 <!-- Typing animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+that+actually+work+%F0%9F%A4%96;Full-Stack+Dev+%7C+Data+Engineer;Java+%C2%B7+React+%C2%B7+Kafka+%C2%B7+PySpark+%C2%B7+GCP;Open+to+Work+%26+Freelance+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
+
 <br/>
+
 <!-- About Me -->
-> whoami
-pythontanzil = {
+## `> whoami`
+
+```python
+tanzil = {
     "name"      : "Tanzil Ahmed",
     "location"  : "Bengaluru, India 🇮🇳",
     "role"      : ["Full-Stack Developer", "Data Engineer", "AI Builder"],
@@ -18,57 +23,90 @@ pythontanzil = {
     "status"    : "Open to Work & Available for Freelance 🟢",
     "superpower": "Turning complex problems into clean, automated solutions"
 }
+```
+
 <br/>
+
 <!-- Featured Projects -->
-> ls ./projects --featured
+## `> ls ./projects --featured`
+
 <div align="center">
-🤖 Job Hunter AI Agent🎵 AI Mix & Mastering AgentMulti-module AI system that auto-finds jobs, researches companies & generates tailored CVs and cover lettersAI-powered audio mastering tool that analyzes and masters music tracks automaticallyPython Claude API Tavily PostgreSQL FastAPIPython React AI/ML Audio DSPView Project →View Project →
+
+| 🤖 Job Hunter AI Agent | 🎵 AI Mix & Mastering Agent |
+|---|---|
+| Multi-module AI system that auto-finds jobs, researches companies & generates tailored CVs and cover letters | AI-powered audio mastering tool that analyzes and masters music tracks automatically |
+| `Python` `Claude API` `Tavily` `PostgreSQL` `FastAPI` | `Python` `React` `AI/ML` `Audio DSP` |
+| [View Project →](https://github.com/Tanzil-Ahmed) | [View Project →](https://github.com/Tanzil-Ahmed) |
+
 </div>
+
 <br/>
+
 <!-- Tech Stack -->
-> cat tech_stack.json
-Languages
-Show Image
-Show Image
-Show Image
-Show Image
-Frontend
-Show Image
-Show Image
-Show Image
-Backend & Data
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Cloud & DevOps
-Show Image
-Show Image
-Show Image
-Show Image
+## `> cat tech_stack.json`
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Data**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Cloud & DevOps**
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 <br/>
+
 <!-- GitHub Stats -->
-> git stats
+## `> git stats`
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanzilAhme94172&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanzilAhme94172&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0c4ff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanzil-Ahmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzil-Ahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0c4ff" height="165"/>
 </div>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanzilAhme94172&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanzil-Ahmed&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="60%"/>
 </div>
+
 <br/>
+
 <!-- Hire Me -->
-> ./contact --hire-me
+## `> ./contact --hire-me`
+
 <div align="center">
-💼 Open to Full-Stack, Backend & Data Engineering roles — Pan India + International Remote
-🤝 Available for Freelance — AI Agents, Automation, Custom Tools for Founders
+
+💼 **Open to Full-Stack, Backend & Data Engineering roles** — Pan India + International Remote  
+🤝 **Available for Freelance** — AI Agents, Automation, Custom Tools for Founders  
+
 <br/>
-Show Image
-Show Image
-Show Image
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio--tanzil.site-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-tanzil.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanzil_Ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzil-ahmed-3731922a2)
+[![Twitter](https://img.shields.io/badge/Twitter-@TanzilAhme94172-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TanzilAhme94172)
+
 </div>
+
 <br/>
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
