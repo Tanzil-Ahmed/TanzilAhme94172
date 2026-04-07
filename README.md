@@ -79,8 +79,8 @@ tanzil = {
 ## `> git stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanzil-Ahmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzil-Ahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0c4ff" height="165"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=Tanzil-Ahmed&cc=0d1117&tc=00d4ff&ic=00d4ff&bc=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzil-Ahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0c4ff&cache_seconds=1800" height="165"/>
 </div>
 
 <div align="center">
